@@ -8,7 +8,7 @@ const CropVideoScreen = ({route, navigation}) => {
     const {videoUri} = route.params;
 
     const cropVideo = async () => {
-        
+        const 
     }
     return(
 
